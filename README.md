@@ -63,6 +63,7 @@ Infinite narratives generated as you play. The dungeon master is a language mode
 | 8 | [Vojna](https://store.steampowered.com/app/1978690/Vojna/) | 🔥 | A wartime survival story where your only lifeline is an AI on the radio — talk to it, and your words steer the mission and the ending. |
 | 9 | [Hidden Door](https://www.hiddendoor.co/) | 🔥 | Play social roleplaying adventures set inside books and fictional worlds, co-authored live with an AI narrator. |
 | 10 | [LoreKeeper](https://lore-keeper.com/) | 🔥 | An AI dungeon master backed by a real server-side D&D 5e rules engine — actual dice, initiative, conditions, and spells. |
+| 11 | [Teasa](https://teasa.ai/en?utm_source=github-awesome-ai-game&utm_medium=referral&utm_campaign=backlinks-2026-10) | 🔥 | Play authored interactive Stories in your own words, complete quests with a cast, and turn a date agreed in Character chat into a private Story. |
 
 ## AI Sandbox, Simulation & Party Games
 
